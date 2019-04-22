@@ -1,1 +1,2 @@
-puts 'Noxx is gay'
+Noxx = 'gay'
+puts 'Noxx is gay' if (Noxx == 'gay')
