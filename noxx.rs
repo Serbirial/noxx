@@ -1,5 +1,5 @@
 fn say_hello(noxx: &str, msg: &str) {
-    println!("{}{}", id, msg);
+    println!("{}{}", noxx, msg);
 }
 
 fn main() {
