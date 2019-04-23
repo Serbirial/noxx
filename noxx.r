@@ -1,0 +1,1 @@
+print('Noxx is gay')
